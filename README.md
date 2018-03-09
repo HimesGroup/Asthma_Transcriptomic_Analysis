@@ -12,7 +12,7 @@ We integrated asthma-related publicly available datasets to investigate global a
 ![](<./figs/GC_bloodcell.png>)
 
 ## Description of files in repository
-`integration_results folder` contains integration results for significant genes in asthma and glucocorticoid response. For each phenotype and cell/tissue group of interest, genes with q-value <0.05 obtained by at least two integration methods were considered significant. The files share the same format. Here are the descriptions of the header:
+`integration_results folder` contains integration results for significant genes in asthma and glucocorticoid response. For each phenotype and cell/tissue group of interest, genes with q-value <0.05 obtained by at least two integration methods were considered significant. The files share the same format.
 
 Field | Description
 --- | ---
