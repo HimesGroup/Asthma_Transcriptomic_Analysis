@@ -10,14 +10,15 @@ We integrated asthma-related publicly available datasets to investigate global a
 
 ## Description of files in repository
 `integration_results folder` contains integration results for significant genes in asthma and glucocorticoid response. For each phenotype and cell/tissue group of interest, genes with q-value <0.05 obtained by at least two integration methods were considered significant. The files share the same format. Here are the descriptions of the header:
-Field|Description
-Gene|gene symbol
-N|number of studies
-es_method.pval|p-value from effect size-based method
-es_method.qval|q-value from effect size-based method
-es_method.eff.size|combined effect size from effect size-based method
-es_method.std.err|standard error from effect size-based method
-p_method.pval-p|value from p-value-based method
-p_method.qval|q-value from p-value-based method
-rank_method.pval|p-value from rank-based method
-rank_method.qval|q-value from rank-based method
+
+Field | Description
+Gene | gene symbol
+N | number of studies
+es_method.pval | p-value from effect size-based method
+es_method.qval | q-value from effect size-based method
+es_method.eff.size | combined effect size from effect size-based method
+es_method.std.err | standard error from effect size-based method
+p_method.pval-p | value from p-value-based method
+p_method.qval | q-value from p-value-based method
+rank_method.pval | p-value from rank-based method
+rank_method.qval | q-value from rank-based method
