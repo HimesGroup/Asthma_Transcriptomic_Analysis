@@ -23,3 +23,7 @@ p_method.pval-p | value from p-value-based method
 p_method.qval | q-value from p-value-based method
 rank_method.pval | p-value from rank-based method
 rank_method.qval | q-value from rank-based method
+
+`asthma_integration.R`: R codes for integration analysis. Example data used are in the data folder. Note that for the rank-based method, 10000 permutations are used for demonstration. 
+
+`data folder` contains example data for running R script `asthma_integration.R`. `datainfo.RDS` contains information of datasets used. `example.RDS` contains differential expression analysis results in a list format. Two genes are used here for demonstration.
