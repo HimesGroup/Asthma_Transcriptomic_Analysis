@@ -27,3 +27,5 @@ rank_method.qval | q-value from rank-based method
 `asthma_integration.R`: R codes for integration analysis. Example data used are in the data folder. Note that for the rank-based method, 10000 permutations are used for demonstration. 
 
 `data folder` contains example data for running R script `asthma_integration.R`. `datainfo.RDS` contains information of datasets used. `example.RDS` contains differential expression analysis results in a list format. Two genes are used here for demonstration.
+
+`DE_results folder` contains the RMD files for microarray datasets used for our integration analysis of transcriptomic data asthma and glucocorticoid response
